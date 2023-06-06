@@ -1,0 +1,7 @@
+C:\Users\maicon.sconstancio\source\repos\SegundaAula300523\SegundaAula300523\bin\Debug\SegundaAula300523.exe.config
+C:\Users\maicon.sconstancio\source\repos\SegundaAula300523\SegundaAula300523\bin\Debug\SegundaAula300523.exe
+C:\Users\maicon.sconstancio\source\repos\SegundaAula300523\SegundaAula300523\bin\Debug\SegundaAula300523.pdb
+C:\Users\maicon.sconstancio\source\repos\SegundaAula300523\SegundaAula300523\obj\Debug\SegundaAula300523.csproj.AssemblyReference.cache
+C:\Users\maicon.sconstancio\source\repos\SegundaAula300523\SegundaAula300523\obj\Debug\SegundaAula300523.csproj.CoreCompileInputs.cache
+C:\Users\maicon.sconstancio\source\repos\SegundaAula300523\SegundaAula300523\obj\Debug\SegundaAula300523.exe
+C:\Users\maicon.sconstancio\source\repos\SegundaAula300523\SegundaAula300523\obj\Debug\SegundaAula300523.pdb
